@@ -1,3 +1,3 @@
 [submodule "data"]
-	path = data
+	path = chp-archive
 	url = https://github.com/nandiheath/chp-archive.git
