@@ -26,4 +26,7 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 
+# Mac files
+.DS_Store
+
 # End of https://www.gitignore.io/api/virtualenv
